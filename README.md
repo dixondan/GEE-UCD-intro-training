@@ -16,10 +16,6 @@ Access GEE code editor at https://code.earthengine.google.com/
 <ul><li>GEE Introductory Overview ~ 1 h 10 min</li>
 <li>Wrapping Up ~ 20 min</li><li>Q&A ~</li></ul></span>  
 
-## Introductory Overview 
-<hr style="border:2px solid rgb(30,70,125)"> </hr>  <ul><li>Google Earth Engine (GEE) - <span style='font-weight:bold'>15 min</span></li><li>GEE Code Editor - <span style='font-weight:bold'>15 min</span>
-</li><li>GEE Javascript - <span style='font-weight:bold'>35 min</span></li><li>Temporal and Spatial Reducers - <span style='font-weight:bold'>25 min</span></ul></li>
-
 ## Prerequisites to Using GEE
 <hr style="border:2px solid rgb(30,70,125)"> </hr>  
 
@@ -35,14 +31,6 @@ _Otherwise, just follow the discussion and try on your own time_
 
 ## Resources
 <hr style="border:2px solid rgb(30,70,125)"> </hr>
-
-- This presentation is available at <span style="color:red">https://github.com/npec/AWOC2020-GEE-Training</span>
-- All participants that updated their <span style="color:blue"> GMAIL/GOOGLE</span> were added to the class repository of GEE scripts
- - https://code.earthengine.google.com/?accept_repo=users/nwatchs/AWOC2020  
-
-_**The repository will show up in your GEE code editor**_
- - Scripts &#8594; Reader   
-  &#8594; **users/nwatchs/AWOC2020** (more on this later)
 
 <span style="font-size:1.3em; font-weight:bold">Earth Engine Developer's Page</span>  https://developers.google.com/earth-engine
 <img src="https://github.com/npec/AWOC2020-GEE-Training/blob/main/images/earth-engine-intro2.png">
