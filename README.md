@@ -63,14 +63,8 @@ _**The repository will show up in your GEE code editor**_
 ## Please Note
 <hr style="border:2px solid rgb(30,70,125)"> </hr>
 
-- Although we introduce EE to the ocean colour community
-- We are not going to delve into specifics of ocean colour
-- Unless we are advanced GEE users, it won't be practical!  
-
 **So, let us focus on the foundations of GEE** <br> 
   The most advanced tasks are left for the future  
-
-**All practical examples use ocean data (chlorophyll, temperature)**
 
 
 # Introduction to GEE 
@@ -107,9 +101,6 @@ Many Celebrity Use Case https://earthengine.google.com/case_studies/
 <span style="font-weight: bold; font-size:1.3em;">The global distribution and trajectory of tidal flats</span>  
 <span style="font-size: 0.8em">Nicholas J. Murray, Stuart R. Phinn, Michael DeWitt, Renata Ferrari, Renee Johnston, Mitchell B. Lyons, Nicholas Clinton, David Thau & Richard A. Fuller</span>
 
-<img src="https://github.com/npec/AWOC2020-GEE-Training/blob/main/images/tidal-case.PNG">
-
-_**https://www.intertidal.app/**_
 
 <span style="font-size:1.5em; font-weight: bold">Global Surface Water</span>
 <img src="https://github.com/npec/AWOC2020-GEE-Training/blob/main/images/water-distro-app.PNG">
@@ -154,8 +145,6 @@ Results sent back can be visualized in the browser
 Aim to tackle some of the world’s greatest challenges using open Earth data   
  
 <span style="color: brown; font-size:1em; font-weight: bold">NPEC is part of a GEO-GEE project</span> (lead, Prof. Joji Ishizaka, Nagoya Univ.)  
-**`Global screening of potential eutrophication waters`**  
-**`SGLI 250 m data for mapping of near-coastal waters`**
     
 <img src="https://github.com/npec/AWOC2020-GEE-Training/blob/main/images/geo-projects.PNG">
 
