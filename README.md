@@ -127,12 +127,7 @@ Results sent back can be visualized in the browser
 
 <img src="https://github.com/npec/AWOC2020-GEE-Training/blob/main/images/gee-howitworks.png">
 
-<span style="color: blue; font-size:1.3em; font-weight: bold">GEO-GEE License Project: 32 Projects (22 Countries) </span>  
 Aim to tackle some of the world’s greatest challenges using open Earth data   
- 
-<span style="color: brown; font-size:1em; font-weight: bold">NPEC is part of a GEO-GEE project</span> (lead, Prof. Joji Ishizaka, Nagoya Univ.)  
-    
-<img src="https://github.com/npec/AWOC2020-GEE-Training/blob/main/images/geo-projects.PNG">
 
 <span style='font-size: 1.2em; font-weight:bold'> Summary </span>
 - <span style='color:rgb(0,150,0)'>GEE is great tool operating on petabyte imagery using Google’s cloud</span>  
@@ -276,10 +271,10 @@ print('This string will print in the Console tab.');
 
 /* square brackets are used for items in a list
 The zero index refers to the first item in a list*/
-var myList = ['eggplant','apple','wheat']; 
+var myList = ['corn','wheat','soybeans']; 
 
-print(myList[0]); // prints eggplant
-print(myList[3]); // prints undefined
+print(myList[0]);
+print(myList[3]);
 
 ```
 
