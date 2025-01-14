@@ -78,7 +78,7 @@ _Otherwise, just follow the discussion and try on your own time_
 |<span style="color:brown; font-weight:bold; font-size:1.5em">An interactive environment for development at scale</span>|
 |:---|
 <ul><li><span style="font-weight:bold">Fast prototyping & computation</span></li><li><span style="font-weight:bold">Easy dissemination of research outputs through GEE Apps</span></li><li><span style="font-weight:bold">High-impact & data-driven science</span></li><li><span style="font-weight:bold">Free cloud processing</span> with built-in functions optimized for parallel computing</li></ul>|  
-Many Celebrity Use Case https://earthengine.google.com/case_studies/  
+Many use cases https://earthengine.google.com/case_studies/  
 
 [Timelapse](https://earthengine.google.com/timelapse#v=24.99902,54.99209,11.872,latLng&t=2.03&ps=50&bt=19840101&et=20181231&startDwell=0&endDwell=0)
 
