@@ -39,19 +39,6 @@ _Otherwise, just follow the discussion and try on your own time_
 * <span style="color:rgb(120, 160, 210); font-weight:bold">Help & Support</span>
 * <span style="color:rgb(120, 160, 210); font-weight:bold">Data Catalog</span>, etc.
 
-## Comments/Questions/Help
-<hr style="border:2px solid rgb(30,70,125)"> </hr>
-
-- Please <span style="color:brown; font-weight:bold">mute your microphone</span> while listening
-- <span style="color:green; font-weight:bold">Unmute whenever you have a question</span> to ask or post in the comment section
-- Please reach out with any questions to maure@npec.or.jp at any time 
-
-## Please Note
-<hr style="border:2px solid rgb(30,70,125)"> </hr>
-
-**So, let us focus on the foundations of GEE** <br> 
-  The most advanced tasks are left for the future  
-
 
 # Introduction to GEE 
 <hr style="border:2px solid rgb(30,70,125)"> </hr>
