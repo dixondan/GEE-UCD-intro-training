@@ -118,8 +118,8 @@ Aim to tackle some of the world’s greatest challenges using open Earth data
 - <span style='color:rgb(150,0,0)'>GEE performs poorly for long-running iterative processes </span>  
   &#8594; e.g. finite element, etc.
 
-| <span style='font-size:1.3em; font-weight:bold'>5 min break (or questions if any)</span> |
-|:--- |
+| <span style='font-size:1.3em; font-weight:bold'> questions if any</span> |
+|:-------------------------------------------------------------------------|
 <span style='font-size:2em; font-weight:bold'>GEE Code Editor</span>
 
 # GEE Code Editor 
