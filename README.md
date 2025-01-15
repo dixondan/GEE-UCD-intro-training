@@ -88,12 +88,6 @@ Rapid visualization of complex spatial analyses
 _**API &#8594; application programming interface**_
 <img src="https://github.com/npec/AWOC2020-GEE-Training/blob/main/images/GEE_Languages_2.PNG">
 
-<span style="font-weight:bold; font-size:1.3em">[EE Explorer](https://explorer.earthengine.google.com/#workspace)</span> 
- <hr style="border:2px solid rgb(30,70,125)"></hr>
-- Great tool for non-specialists to get started 
-- Allows simple data visualization but with limited analysis capabilities
-- Does not require registration!  
-
 [Introductory materials](https://www.google.com/earth/outreach/learn/introduction-to-google-earth-engine/)
 <img src="https://github.com/npec/AWOC2020-GEE-Training/blob/main/images/earth-engine-explorar.png">
 
