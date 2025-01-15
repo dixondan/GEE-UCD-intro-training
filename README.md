@@ -71,14 +71,6 @@ Many use cases https://earthengine.google.com/case_studies/
 
 <img src="https://github.com/npec/AWOC2020-GEE-Training/blob/main/images/Timelapse.gif">
 
-<span style="font-weight: bold; font-size:1.3em;">The global distribution and trajectory of tidal flats</span>  
-<span style="font-size: 0.8em">Nicholas J. Murray, Stuart R. Phinn, Michael DeWitt, Renata Ferrari, Renee Johnston, Mitchell B. Lyons, Nicholas Clinton, David Thau & Richard A. Fuller</span>
-
-
-<span style="font-size:1.5em; font-weight: bold">Global Surface Water</span>
-<img src="https://github.com/npec/AWOC2020-GEE-Training/blob/main/images/water-distro-app.PNG">
-_**https://global-surface-water.appspot.com/map**_
-
 |<span style="font-weight: bold; color:brown; font-size: 2em">Online public data archive$~$</span> |
 |:---|
 <ul><li><span style='font-size: 1.3em'>A petabyte (> 50) storage accessible through GEE APIs</span></li><li><span style='font-weight:bold; font-size: 1.3em; color:rgb(255, 110, 0)'>Unfortunately, ocean colour data repository still very poor</span></ul></li>
